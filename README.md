@@ -25,7 +25,10 @@ The web UI username/password is only useful after the security patch!
 select option 1
 
 *6.*
-done! the other options are optional, but the openHABian security patch is highly recommended to do!
+done!
+
+
+The other options are optional, but the openHABian security patch is highly recommended to do!
 
 
 Feel free to report bugs.
